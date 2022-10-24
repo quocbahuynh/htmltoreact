@@ -14,11 +14,11 @@ The tool will detect the components throught the comment HTML tags.
 ```html
  <!-- Wrapper -->
     <div id="wrapper" class="divided">
-        <!-- Section1 -->
+        <!-- SectionFirst -->
         <section>
             <h1>Frist Section</h1>
         </section>
-         <!-- Section2 -->
+         <!-- SectionSecond -->
         <section>
             <h1>Second Section</h1>
         </section>
