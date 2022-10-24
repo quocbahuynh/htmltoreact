@@ -16,9 +16,5 @@
     "html-minifier": "^4.0.0",
     "htmltojsx": "^0.3.0",
     "pretty": "^2.0.0"
-  },
-  "homepage": "https://github.com/quocbahuynh/htmltoreact",
-  "publishConfig": {
-    "registry":"https://npm.pkg.github.com"
   }
 }
