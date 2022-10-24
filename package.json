@@ -1,6 +1,6 @@
 {
   "name": "htmltoreact",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/quocbahuynh/htmltoreact"
+    "url": "https://github.com/quocbahuynh/htmltoreact.git"
   },
   "author": "Quochb",
   "license": "ISC",
@@ -16,5 +16,9 @@
     "html-minifier": "^4.0.0",
     "htmltojsx": "^0.3.0",
     "pretty": "^2.0.0"
+  },
+  "homepage": "https://github.com/quocbahuynh/htmltoreact",
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
   }
 }
