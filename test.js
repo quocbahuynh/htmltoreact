@@ -1,0 +1,1 @@
+const createComponents = require('./index')
