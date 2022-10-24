@@ -29,7 +29,7 @@ In this case, the tool assume that `Wrapper Component` contains `Section1 Compon
 ### Step 2: Run code
 Create a new file and then import `index.js`. 
 ```javascript
-//test.js
+//sample.js
 
 const createComponents = require('./index')
 createComponents("./index.html", "Wrapper", "output")
