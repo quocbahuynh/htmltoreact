@@ -41,7 +41,7 @@ The `createComponents` takes 3 parameter
 | Second | string | yes | Component's name |
 | Third | string | yes | The path of output folder |
 
-Execute code by `node test`.
+Execute code by `node sample`.
 
 
 
